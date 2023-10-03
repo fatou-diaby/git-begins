@@ -5,3 +5,5 @@
   git remote add origin /chemin/vers /mon/repository
   git branch -M master
   git push -u origin master
+##Pour faire un pull
+git pull  origin master
