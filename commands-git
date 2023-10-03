@@ -1,0 +1,7 @@
+##Pour cloner 
+  git clone chemin/vers/mon/dépot
+
+##Les 3 commandes de push 
+  git remote add origin /chemin/vers /mon/repository
+  git branch -M master
+  git push -u origin master
